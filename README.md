@@ -13,3 +13,4 @@ Executive Mailing Service currently uses a pair of custom **ACCESS 97** Database
 There are some "off the shelf" solutions available. However, there is no money available to invest in any of them in the foreeable future.  Therefore, we are forced to address this issue by endervoring to develop a solution internally.  There are many viable and well supported Open-Source tools and frameworks available that can be used to build a modern Warehouse Management System that is customized to the EMS environment.
 
 Below is an overview diagram of the system's genreral design:
+![Warehouse Management System Overview Diagram](./Documents/NewEMSWarehouse_ModuleOverview.PNG)
