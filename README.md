@@ -1,5 +1,5 @@
 # wh-project
-**New EMS Warehouse Inventory System Project**
+**New EMS Warehouse Inventory Management System Project**
 
 This Repository is used to document the research and development work performed over the course of building and deploying a new *Warehouse Inventory Management System** (**wh**) for Executive Mailing Service.
 
