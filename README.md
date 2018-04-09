@@ -14,3 +14,10 @@ There are some "off the shelf" solutions available. However, there is no money a
 
 Below is an overview diagram of the system's genreral design:
 ![Warehouse Management System Overview Diagram](./Documents/NewEMSWarehouse_ModuleOverview.PNG)
+
+The system consists of 3 Modules:
+* Receiving: Automates and records activities associated with receiving stock into inventory
+* Stock Management: Manages and tracks the location and usage of components
+* Shipping: Automates and records activities associated with shipping inventory
+
+The modules are interconnected and share information via an API (Http/REST).
